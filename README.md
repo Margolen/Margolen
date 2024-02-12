@@ -18,7 +18,7 @@ I'm currently focused on:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   </div>
 
-## Connect with me::
+## Connect with me:
 <div>
 <a href="https://t.me/MargaritaShishkova" target="blank"><img src="https://i.ibb.co/s9Z5S4r/telegram.png" title="telegram" alt="telegram" width="40" height="40"></a>&nbsp;
 <a href="https://www.linkedin.com/in/margarita-shishkova/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" /> </picture> </a>
