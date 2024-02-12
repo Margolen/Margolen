@@ -2,6 +2,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ===========================================================================================================================================
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+to+Margolen's+Github+Profile..)](https://git.io/typing-svg)
 
+I'm currently focused on:
+
+- 💻 Working on: ReactJS projects.
+- 🎓 Learning: Advanced React concepts and techniques.
+- 💬 Feel free to ask me about tech, science, or even bouldering!
+
 ## Technologies:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
