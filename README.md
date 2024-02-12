@@ -6,7 +6,7 @@ I'm currently focused on:
 
 - 💻 Working on: ReactJS projects.
 - 🎓 Learning: Advanced React concepts and techniques.
-- 💬 Feel free to ask me about tech, science, or even bouldering!
+- 💬 Feel free to ask me about tech, science, and even ballet or bouldering!
 
 ## Technologies:
 <div>
